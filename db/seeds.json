@@ -5,9 +5,9 @@
       "title": "Chicken Lo Mein",
       "image": "https://spoonacular.com/recipeImages/638174-556x370.jpg",
       "secondaryImages": [
-        "/images/food/lo-mein-1.jpg",
-        "/images/food/lo-mein-2.jpg",
-        "/images/food/lo-mein-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/656777-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 2,
       "readyInMinutes": 35,
@@ -35,9 +35,9 @@
       "title": "Pork Fried Rice",
       "image": "https://spoonacular.com/recipeImages/656777-556x370.jpg",
       "secondaryImages": [
-        "/images/food/pork-fried-rice-1.jpg",
-        "/images/food/pork-fried-rice-2.jpg",
-        "/images/food/pork-fried-rice-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 4,
       "readyInMinutes": 45,
@@ -65,9 +65,9 @@
       "title": "Fish Crocchette Appetizer",
       "image": "https://spoonacular.com/recipeImages/642927-556x370.jpg",
       "secondaryImages": [
-        "/images/food/fish-crocchette-1.jpg",
-        "/images/food/fish-crocchette-2.jpg",
-        "/images/food/fish-crocchette-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 8,
       "readyInMinutes": 45,
@@ -96,9 +96,9 @@
       "title": "Lasagna - Spinach Rolls",
       "image": "https://spoonacular.com/recipeImages/649270-556x370.jpg",
       "secondaryImages": [
-        "/images/food/lasagna-1.jpg",
-        "/images/food/lasagna-2.jpg",
-        "/images/food/lasagna-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 6,
       "readyInMinutes": 105,
@@ -128,9 +128,9 @@
       "title": "Asian Noodles",
       "image": "https://spoonacular.com/recipeImages/632854-556x370.jpg",
       "secondaryImages": [
-        "/images/food/noodles-1.jpg",
-        "/images/food/noodles-2.jpg",
-        "/images/food/noodles-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 4,
       "readyInMinutes": 45,
@@ -159,9 +159,9 @@
       "title": "Lamb Chops Masala",
       "image": "https://spoonacular.com/recipeImages/649199-556x370.jpg",
       "secondaryImages": [
-        "/images/food/lamb-chops-1.jpg",
-        "/images/food/lamb-chops-2.jpg",
-        "/images/food/lamb-chops-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 1,
       "readyInMinutes": 60,
@@ -191,9 +191,9 @@
       "title": "Chicken Wings",
       "image": "https://spoonacular.com/recipeImages/638420-556x370.jpg",
       "secondaryImages": [
-        "/images/food/chicken-wings-1.jpg",
-        "/images/food/chicken-wings-2.jpg",
-        "/images/food/chicken-wings-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 30,
       "readyInMinutes": 60,
@@ -219,9 +219,9 @@
       "title": "Curry Fish With Peas",
       "image": "https://spoonacular.com/recipeImages/641123-556x370.jpg",
       "secondaryImages": [
-        "/images/food/fish-peas-1.jpg",
-        "/images/food/fish-peas-2.jpg",
-        "/images/food/fish-peas-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 1,
       "readyInMinutes": 30,
@@ -250,9 +250,9 @@
       "title": "Pasta With Tuna",
       "image": "https://spoonacular.com/recipeImages/654959-556x370.jpg",
       "secondaryImages": [
-        "/images/food/pasta-tuna-1.jpg",
-        "/images/food/pasta-tuna-2.jpg",
-        "/images/food/pasta-tuna-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 4,
       "readyInMinutes": 60,
@@ -279,9 +279,9 @@
       "title": "Spaghetti Squash & Tomato Basil Meat Sauce",
       "image": "https://spoonacular.com/recipeImages/795514-556x370.jpg",
       "secondaryImages": [
-        "/images/food/spaghetti-squash-1.jpg",
-        "/images/food/spaghetti-squash-2.jpg",
-        "/images/food/spaghetti-squash-3.jpg"
+        "https://spoonacular.com/recipeImages/795514-556x370.jpg",
+        "https://spoonacular.com/recipeImages/638174-556x370.jpg",
+        "https://spoonacular.com/recipeImages/642927-556x370.jpg"
       ],
       "servings": 2,
       "readyInMinutes": 75,
